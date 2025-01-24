@@ -12,7 +12,7 @@ Este projeto apresenta exemplos de como conectar uma aplicacao Python(3.12) ao b
 
 ### Ambiente com Podman
 
-Este projeto utiliza o Podman para gerenciar a imagem do DB2. Siga os passos abaixo para configurar o ambiente:
+Este projeto utiliza o [Podman](https://podman.io/) para gerenciar a imagem do DB2. Siga os passos abaixo para configurar o ambiente:
 
 1. **Baixar a imagem DB2:**
    ```bash
